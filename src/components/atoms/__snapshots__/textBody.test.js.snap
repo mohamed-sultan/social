@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render correctly 1`] = `
+<Text
+  style={
+    {
+      "color": "#141619",
+      "lineHeight": 28,
+      "marginVertical": 20,
+      "paddingHorizontal": 30,
+      "textAlign": "left",
+    }
+  }
+/>
+`;
